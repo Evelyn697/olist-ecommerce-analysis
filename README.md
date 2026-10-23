@@ -2,9 +2,13 @@
 
 > 数据分析实战项目 | python + MySQL + Supserset | RFM用户分层 | 多维业务分析。 
 
+
+
 ## 一、项目概览
 
 ​	本项目基于巴西最大的电商平台之一 Olist 的Kaggle公开数据集，完成从数据清洗、维度建模、指标体系搭建和业务分析、Superset交互式BI看板搭建的完整数据分析流程，旨在为业务方提供经营大盘监控、用户群体分析、供应链管理与物流履约优化等提供数据驱动的异常监控和决策支持。
+
+
 
 ## 二、技术栈
 
@@ -14,6 +18,8 @@
 | 数据处理和分析 | Python（Pandas）、MySQL 8.0（多表JOIN、窗口函数、CTE） |
 | BI与可视化 | Apache Superset（构建 Control Tower 监控看板） |
 | 版本管理 | Git / GitHub |
+
+
 
 ## 三、项目目录结构
 
@@ -38,10 +44,14 @@ supply-chain-analytics/
 
 ```
 
+
+
 ## 四、数据来源
 
 [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 	— Kaggle公开数据集，真实匿名商业数据，9 张关系表（包括订单、客户、商品、客户评价、卖家、地理位置、商品品类翻译等数据），约 10 万笔订单（2016–2018）。
+
+
 
 ## 五、分析模块与指标体系
 
@@ -116,6 +126,8 @@ supply-chain-analytics/
 3. **物流履约与用户评价**
 
    ![m-3-物流履约与用户评价分析-2026-10-19T07-12-36.774Z](D:\个人事务\求职\AI工具\olist-ecommerce-analytics\dashboards\screenshots\m-3-物流履约与用户评价分析-2026-10-19T07-12-36.774Z.jpg)
+
+
 
 ## 七、核心业务发现
 
