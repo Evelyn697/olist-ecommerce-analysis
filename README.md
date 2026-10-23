@@ -117,15 +117,15 @@ supply-chain-analytics/
 
 1. **经营总览**
 
-   ![m-1-经营总览（-business-overview）-2026-10-16T13-41-27.368Z](D:\个人事务\求职\AI工具\olist-ecommerce-analytics\dashboards\screenshots\m-1-经营总览（-business-overview）-2026-10-16T13-41-27.368Z.jpg)
+   ![m-1-经营总览（-business-overview）-2026-10-16T13-41-27.368Z](dashboards\screenshots\m-1-经营总览（-business-overview）-2026-10-16T13-41-27.368Z.jpg)
 
 2. **用户分析**
 
-   ![m-2-用户分析（user-analysis）-2026-10-19T11-58-48.618Z](D:\个人事务\求职\AI工具\olist-ecommerce-analytics\dashboards\screenshots\m-2-用户分析（user-analysis）-2026-10-19T11-58-48.618Z.jpg)
+   ![m-2-用户分析（user-analysis）-2026-10-19T11-58-48.618Z](dashboards\screenshots\m-2-用户分析（user-analysis）-2026-10-19T11-58-48.618Z.jpg)
 
 3. **物流履约与用户评价**
 
-   ![m-3-物流履约与用户评价分析-2026-10-19T07-12-36.774Z](D:\个人事务\求职\AI工具\olist-ecommerce-analytics\dashboards\screenshots\m-3-物流履约与用户评价分析-2026-10-19T07-12-36.774Z.jpg)
+   ![m-3-物流履约与用户评价分析-2026-10-19T07-12-36.774Z](dashboards\screenshots\m-3-物流履约与用户评价分析-2026-10-19T07-12-36.774Z.jpg)
 
 
 
